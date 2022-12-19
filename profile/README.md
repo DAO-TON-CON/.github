@@ -1,4 +1,4 @@
-# TON # CON
+# TON CON
 
 TON CON is the The open Network conference for developers, researchers, thinkers, and makers.
 
