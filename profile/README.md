@@ -1,5 +1,5 @@
 # TON CON
 
-The Open Network conference for developers, researchers, thinkers, and makers.
+International conference The Open Network with open source. 
 
-An intensive introduction for new TON explorers, a global family reunion for those already a part of our ecosystem, and a source of energy and creativity for all.
+An active introduction for new TON explorers, a global family reunion with those people from our ecosystem and a source of energy and creativity for all.
